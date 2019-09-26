@@ -15,15 +15,15 @@
 <!--- specific language governing permissions and limitations -->
 <!--- under the License. -->
 
-Frequently Asked Questions
+常见问题解答
 ==========================
-This document contains frequently asked questions.
+这份文档涵盖了常见问题解答。
 
-How to Install
+如何安装？
 --------------
-See [Installation](http://docs.tvm.ai/install/)
+请参见 [安装步骤](http://docs.tvm.ai/install/)。
 
-TVM's relation to Other IR/DSL Projects
+TVM和其他IR/DSL项目的关系
 ---------------------------------------
 There are usually two levels of abstractions of IR in the deep learning systems.
 NNVM, TensorFlow's XLA and Intel's ngraph uses computation graph representation.
@@ -40,7 +40,7 @@ optimization for different hardware backends and embedding with frameworks to pr
 end-to-end compilation stack.
 
 
-TVM's relation to libDNN cuDNN
+TVM和libDNN cuDNN的关系
 ------------------------------
 TVM can incorporate these library as external calls. One goal of TVM is to be able to
 generate high performing kernels. We will evolve TVM an incremental manner as
