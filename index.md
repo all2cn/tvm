@@ -1,18 +1,18 @@
-#TVM文档#
+# TVM文档
 
-##开始##
-###安装###
+## 开始
+### 安装
 * 教程
-* VTA: Deep Learning Accelerator Stack
-###部署&集成###
-###贡献到TVM###
-###常见问题及解答###
+* VTA: 深度学习加速栈
+### 部署&集成
+### 贡献到TVM
+### 常见问题及解答
 
-##API手册##
-###语言手册###
+## API手册
+### 语言手册
 * Relay介绍
 * 混合脚本
-###Python开发接口###
+### Python开发接口
 * tvm
 * tvm.intrin
 * tvm.tensor
@@ -35,10 +35,10 @@
 * NNVM API
 * tvm.hybrid
 * Relay API
-###Links to API References###
+### 链接API手册
 
-##开发者指导##
-###Design and Developer Guide###
+## 开发者向导
+### 设计开发向导
 * TVM Runtime System
 * 调试器
 * Hybrid Frontend Developer Guide
@@ -51,9 +51,9 @@
 * InferBound Pass
 * NNVM Graph JSON Specification
 * NNVM设计概览
-###NNVM Core Tensor Operators###
+### NNVM核心算子
 * 算子概览
 * 详细定义
 
-##索引##
-###[索引](https://docs.tvm.ai/genindex.html)###
+## 索引##
+* [索引](https://docs.tvm.ai/genindex.html)
