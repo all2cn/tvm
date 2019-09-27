@@ -1,3 +1,5 @@
+重要！由于国内访问github不便，项目已经迁移至https://gitee.com/all2cn/tvm。
+
 # 前言
 欢迎大家一起加入，一一对应翻译官方的每篇文章，造福其他国人！
 
@@ -18,8 +20,3 @@ TVM provides two level optimizations show in the following figure. Computational
 
 # 协议
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.zh">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-# 术语列表
-* IR - 中间表示
-* TVM - 一种将深度学习工作负载部署到硬件的端到端IR（中间表示）堆栈
-* Relay - 
